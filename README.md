@@ -1,4 +1,4 @@
-Proyecto de Microservicios - Orders & Products
+Proyecto de Microservicios - Orders
 
 Este proyecto contiene el  microservicio desarrollado con Spring Boot 3, WebFlux, programación reactiva y programación funcional con Optionals. el servicio gestionan Órdenes
 
