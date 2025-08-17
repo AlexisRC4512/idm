@@ -17,17 +17,6 @@ http://localhost:8080/swagger-ui/index.html#
 
 ⸻
 
-2. Microservicio de Productos
-	•	Puerto: 8082
-	•	Responsabilidades:
-	•	Crear, listar, actualizar, buscar por id y eliminar productos.
-	•	Los productos son utilizados por el microservicio de Órdenes.
-
-URL de Swagger UI:
-http://localhost:8082/swagger-ui/index.html#
-
-⸻
-
 ⚡ Cómo Ejecutar los Microservicios
 	1.	Construir el proyecto
 
@@ -38,12 +27,6 @@ http://localhost:8082/swagger-ui/index.html#
 ./mvnw spring-boot:run
 
 	•	Se ejecuta en http://localhost:8080
-
-	3.	Ejecutar el microservicio de Productos
-
-./mvnw spring-boot:run
-
-	•	Se ejecuta en http://localhost:8082
 
 ⸻
 
